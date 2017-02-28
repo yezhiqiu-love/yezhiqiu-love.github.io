@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
-	<!--最新版本名称--> 
+	<!--最新版本名称-->
 	<versionName>v1.0.1</versionName>
 	<!--最新版本号-->
 	<versionCode>2</versionCode>
@@ -11,5 +11,5 @@
 2.界面美化，增强手势交互
 3.修复一些bug</upgradeDesc>
 	<!--App下载地址-->
-	<downloadUrl>http://www.banjingjia.com/tangshi/Tang_v1.0.0.apk</downloadUrl>  
-</update>  
+	<downloadUrl>http://www.banjingjia.com/tangshi/Tang_v1.0.0.apk</downloadUrl>
+</update>
