@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<update>  
-	<version>2</version>  
-	<name>唐诗三百首</name>  
-	<url>http://www.banjingjia.com/tangshi/tang1.1.apk</url>  
+<update>
+	<!--最新版本名称--> 
+	<versionName>v1.0.1</versionName>
+	<!--最新版本号-->
+	<versionCode>2</versionCode>
+	<!--最后一次强制更新的版本号-->
+	<lastForceCode>1</lastForceCode>
+	<!--更新说明-->	
+	<upgradeDesc>1.优化用户体验
+2.界面美化，增强手势交互
+3.修复一些bug</upgradeDesc>
+	<!--App下载地址-->
+	<downloadUrl>http://www.banjingjia.com/tangshi/tang1.1.apk</downloadUrl>  
 </update>  
