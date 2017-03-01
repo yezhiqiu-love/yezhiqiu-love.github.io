@@ -7,9 +7,7 @@
 	<!--最后一次强制更新的版本号-->
 	<lastForceCode>1</lastForceCode>
 	<!--更新说明-->	
-	<upgradeDesc>1.优化用户体验
-2.界面美化，增强手势交互
-3.修复一些bug</upgradeDesc>
+	<upgradeDesc></upgradeDesc>
 	<!--App下载地址-->
 	<downloadUrl>http://www.banjingjia.com/tangshi/Tang_v1.0.0.apk</downloadUrl>
 </update>
